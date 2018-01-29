@@ -1,7 +1,5 @@
 # Clean Code Notes
 
-[TOC]
-
 ## Episode 1 - Clean Code
 
 Good code matters. But does it really matter?
