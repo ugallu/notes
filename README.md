@@ -126,7 +126,7 @@ Bad: bool set(String name);
 Good: 
 void setName(String name) throws Exception
 boolean isSetName(String name);
-
+ 
 #### Scope length rule
 If you use your name close to the declaration, keep it short. 
 Its okay to use d, tr, if the code is only 3 line and its a local variable.
