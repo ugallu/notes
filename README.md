@@ -136,3 +136,4 @@ Its okay to use d, tr, if the code is only 3 line and its a local variable.
 * public methods (long scope): short names are preferred.
 * Public class: short names, private classes: longer names.
 * Derived class: plus adjectives
+
